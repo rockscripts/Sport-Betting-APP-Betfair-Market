@@ -99,3 +99,7 @@ Kindly, check if your country is available for getting sports markets visiting <
 <p>
 <b>Congratulations! Listen application typing your domain in your prefered web browser address bar.</b>
 </p>
+<h1>UPDATING COMPETITORS, EVENTS, MARKET CATALOG, USERS BETTING RESULTS, PROFIT, LOSSES AND ILEGAL ACTIVITIES</h1>
+<p>
+
+</p>
