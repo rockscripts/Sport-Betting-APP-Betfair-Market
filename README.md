@@ -7,34 +7,36 @@ Web based app for sports betting using Betfair API<br>
 Read <a href="https://github.com/rockscripts/Sport-Betting-APP-Betfair-Market/blob/master/Aplicacion%20para%20apuestas%20deportivas%20con%20cuotas%20de%20mercado.pdf">Theoric project</a> if you want know application details.
 </p>
 <h3>SCREENSHOTS</h3>
-<p>Full screenshots are in <a href="https://github.com/rockscripts/Sport-Betting-APP-Betfair-Market/blob/master/Aplicacion%20para%20apuestas%20deportivas%20con%20cuotas%20de%20mercado.pdf">Theoric project</a></p>. Got to page number 71
+<p>Full screenshots are in <a href="https://github.com/rockscripts/Sport-Betting-APP-Betfair-Market/blob/master/Aplicacion%20para%20apuestas%20deportivas%20con%20cuotas%20de%20mercado.pdf">Theoric project</a> . Got to page number 71</p>
 <p>
 <div style="float:left; max-height:200px;max-width:200px;overflow:hidden;">
 <h4>Events</h4>
-<img src="readme_images/1.png"/>
+<img src="readme_images/1.png" width="200"/>
 </div>
 <div style="float:left; max-height:200px;max-width:200px;overflow:hidden;">
 <h4>Betting Layer</h4>
-<img src="readme_images/2.png"/>
+<img src="readme_images/2.png" width="200"/>
 </div>
 <div style="float:left; max-height:200px;max-width:200px;overflow:hidden;">
 <h4>Betting History</h4>
-<img src="readme_images/3.png"/>
+<img src="readme_images/3.png" width="200"/>
 </div>
 <div style="float:left; max-height:200px;max-width:200px;overflow:hidden;">
 <h4>Financial</h4>
-<img src="readme_images/4.png"/>
+<img src="readme_images/4.png" width="200"/>
 </div>
 </p>
-
+<br>
+*******************************************************************
+<h1>IS MY COUNTRY AVAILABLE?</h1>
 <p>
 Kindly, check if your country is available for getting sports markets visiting <a href="https://www.betfair.com/">this website on Betfair</a>
 <br>
 <b style="color:red">If you are not able to load web page. It means you require an European or North America Account created on Betfair with VPN and install this application in EU or NA datacenter with Amazon AWS or Google Firebase service.</b> 
 </p>
 
-*******************************************************************
-<h1>GET API KEYS</h1>
+
+<h1>GETTING API KEYS</h1>
 <div class="content">            
 <h2><span class="number" data-mce-mark="1">A</span>&nbsp;<a href="http://register.betfair.com" target="_blank">Sign up</a> for a Betfair account<strong style="font-size: 1.5em;">&nbsp;</strong></h2>
 <p><strong>Please note:&nbsp;</strong> Your Betfair account must be sufficiently funded &amp;&nbsp;<strong><a href="https://en-betfair.custhelp.com/app/answers/detail/a_id/72">verified</a>&nbsp;</strong>before your application for a Live Application Key will be considered. &nbsp;We do not accept Personal licence applications from&nbsp;<strong>India, Pakistan, Bangladesh, Sri Lanka or UAE</strong>.</p>
