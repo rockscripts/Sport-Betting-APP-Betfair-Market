@@ -9,22 +9,36 @@ Read <a href="https://github.com/rockscripts/Sport-Betting-APP-Betfair-Market/bl
 <h3>SCREENSHOTS</h3>
 <p>Full screenshots are in <a href="https://github.com/rockscripts/Sport-Betting-APP-Betfair-Market/blob/master/Aplicacion%20para%20apuestas%20deportivas%20con%20cuotas%20de%20mercado.pdf">Theoric project</a> . Got to page number 71</p>
 <p>
-<div style="float:left; max-height:200px;max-width:200px;overflow:hidden;">
-<h4>Events</h4>
-<img src="readme_images/1.png" width="200"/>
-</div>
-<div style="float:left; max-height:200px;max-width:200px;overflow:hidden;">
-<h4>Betting Layer</h4>
-<img src="readme_images/2.png" width="200"/>
-</div>
-<div style="float:left; max-height:200px;max-width:200px;overflow:hidden;">
-<h4>Betting History</h4>
-<img src="readme_images/3.png" width="200"/>
-</div>
-<div style="float:left; max-height:200px;max-width:200px;overflow:hidden;">
-<h4>Financial</h4>
-<img src="readme_images/4.png" width="200"/>
-</div>
+<table>
+<tr>
+<td>
+    <div>
+        <h4>Events</h4>
+        <img src="readme_images/1.png" width="200"/>
+    </div>
+</td>
+<td>
+    <div>
+        <h4>Betting Layer</h4>
+        <img src="readme_images/2.png" width="200"/>
+    </div>
+</td>
+</tr>
+<tr>
+<td>
+    <div>
+        <h4>Betting History</h4>
+        <img src="readme_images/3.png" width="200"/>
+    </div>
+</td>
+<td>
+    <div>
+        <h4>Financial</h4>
+        <img src="readme_images/4.png" width="200"/>
+    </div>
+</td>
+</tr>
+</table>
 </p>
 <br>
 *******************************************************************
