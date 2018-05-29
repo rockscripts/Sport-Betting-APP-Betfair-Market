@@ -1,7 +1,7 @@
 <h1>Sport Betting APP Betfair Market</h1>
 <p>I authorize any developer, person or company for using this application. But you must accomplish your country law and Betfair requirements to publish it.</p>
 <p>
-Web based app for sports betting using Betfair API<br>
+Web based app for sports betting using <a href="https://github.com/danieledangeli/betfair-php">danieledangeli Betfair API wrapper repository</a><br>
 <b>Framework: </b>Codeigniter with PHP
 <br><br>
 Read <a href="https://github.com/rockscripts/Sport-Betting-APP-Betfair-Market/blob/master/Aplicacion%20para%20apuestas%20deportivas%20con%20cuotas%20de%20mercado.pdf">Theoric project</a> if you want know application details.
@@ -70,4 +70,30 @@ Kindly, check if your country is available for getting sports markets visiting <
 </ol>
 </div>
 
-/application/helpers/general_helper.php
+<h1>INSTALLING APPLICATION</h1>
+<p>
+    This application is web based with codeigniter framework and you must have a web server installed in your Operating System like XAMPP or Lampp or a live server hired with some hosting company. It does not requires any special configuration in server.
+</p>
+<p>
+    <ol>
+        <li>
+          Use a domain for this application. If you are localhost then create a Virtual Host something like <b>latingana.com</b>. Kindly, query on Google "create virtual host for web server(XAMPP; LAMPP)" replace webserver for yours.
+        </li>
+        <li>
+          Under PHPMYADMIN create database and import database.sql located in root project.
+        </li>
+        <li>
+          Upload project files to your server. If you are working in local and you have GIT installed, just use follow git command:<br>
+          <b>git clone https://github.com/rockscripts/Sport-Betting-APP-Betfair-Market.git</b>
+        </li>
+        <li>
+           Configure database connection, set database name, user, password and host /application/config/database.php
+        </li>
+        <li>
+           Configure Exchange API, set your appKey, username and password  /application/helpers/general_helper.php
+        </li>
+    </ol>
+</p>
+<p>
+<b>Congratulations! Listen application typing your domain in your prefered web browser address bar.</b>
+</p>
