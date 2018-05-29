@@ -18,17 +18,17 @@ Read <a href="https://github.com/rockscripts/Sport-Betting-APP-Betfair-Market/bl
     </div>
 </td>
 <td>
-    <div>
-        <h4>Betting Layer</h4>
-        <img src="readme_images/2.png" width="350"/>
+   <div>
+        <h4>Betting History</h4>
+        <img src="readme_images/3.png" width="350"/>
     </div>
 </td>
 </tr>
 <tr>
 <td>
-    <div>
-        <h4>Betting History</h4>
-        <img src="readme_images/3.png" width="350"/>
+     <div>
+        <h4>Betting Layer</h4>
+        <img src="readme_images/2.png" width="350"/>
     </div>
 </td>
 <td>
