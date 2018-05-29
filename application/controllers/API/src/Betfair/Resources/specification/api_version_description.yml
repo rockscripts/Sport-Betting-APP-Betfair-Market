@@ -1,0 +1,3 @@
+name: "betfair-php/api-client"
+description: "Client PHP library for the Betfair Sports API"
+baseUrl: "https://api.betfair.com/exchange/"

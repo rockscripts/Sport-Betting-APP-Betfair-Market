@@ -1,0 +1,40 @@
+{
+    "minimum-stability": "dev",
+
+    "name"       : "erlangb/betfair",
+    "type"       : "library",
+    "description": "Betfair API PHP 5.4+ library",
+    "keywords"   : ["Betfair", "API", "betting api", "betting", "bet"],
+    "homepage"   : "http://www.danieledangeli.com",
+    "license"    : "MIT",
+
+    "authors": [
+        {
+            "name"    : "Daniele D'Angeli",
+            "email"   : "dangeli88.daniele@gmail.com",
+            "homepage": "http://www.danieledangeli.com",
+            "role"    : "Engineer"
+        }
+    ],
+
+    "require-dev": {
+        "phpspec/phpspec": "2.1.1",
+        "fabpot/php-cs-fixer": "@stable"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+
+    "require": {
+        "php": ">=5.4.0",
+        "guzzlehttp/guzzle": "~5.0",
+        "guzzlehttp/command": "0.7.*",
+        "guzzlehttp/guzzle-services": "0.5.*",
+        "symfony/yaml": "~2.6",
+        "symfony/finder": "~2.6"
+    },
+
+    "autoload": {
+        "psr-0": { "Betfair": "src/" }
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "require": {
+        "erlangb/betfair": "dev-master"
+    }
+}

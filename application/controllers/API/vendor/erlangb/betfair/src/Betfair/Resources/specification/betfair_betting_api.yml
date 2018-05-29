@@ -1,0 +1,44 @@
+operations:
+    apiNgRequest:
+          httpMethod: POST
+          responseModel: betfairJsonRpcResponseModel
+          uri: "{type}/json-rpc/v1/"
+          parameters:
+              X-Application:
+                  type: string
+                  location: header
+                  required: true
+              X-Authentication:
+                  type: string
+                  location: header
+                  required: true
+              jsonrpc:
+                  type: string
+                  location: json
+                  required: true
+                  default: "2.0"
+              method:
+                  type: string
+                  location: json
+                  required: true
+              params:
+                  type: object
+                  location: json
+                  required: true
+              id:
+                  type: integer
+                  location: json
+                  required: true
+                  default: 1
+              type:
+                  type: string
+                  location: uri
+                  required: true
+                  default: betting
+                  sentAs: type
+models:
+    betfairJsonRpcResponseModel:
+        type: array
+        location: response
+        additionalProperties:
+            location: response

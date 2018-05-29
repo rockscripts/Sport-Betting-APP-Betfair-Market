@@ -1,0 +1,9 @@
+[11-Nov-2015 06:49:09 America/Chicago] PHP Fatal error:  Call to undefined function base_url() in /home/latingan/public_html/application/views/_layout.php on line 10
+[12-Nov-2015 06:45:54 America/Chicago] PHP Fatal error:  Call to a member function get_countries_information() on a non-object in /home/latingan/public_html/application/controllers/Home.php on line 9
+[13-Nov-2015 01:38:24 America/Chicago] PHP Fatal error:  Call to undefined method Betfair::get_events_by() in /home/latingan/public_html/application/controllers/Events.php on line 14
+[13-Nov-2015 02:14:42 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/latingan/public_html/application/controllers/Events.php on line 33
+[13-Nov-2015 02:15:42 America/Chicago] PHP Parse error:  syntax error, unexpected '$event' (T_VARIABLE), expecting ',' or ';' in /home/latingan/public_html/application/controllers/Events.php on line 26
+[13-Nov-2015 02:15:45 America/Chicago] PHP Parse error:  syntax error, unexpected '$event' (T_VARIABLE), expecting ',' or ';' in /home/latingan/public_html/application/controllers/Events.php on line 26
+[13-Nov-2015 06:02:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/latingan/public_html/application/views/events.php on line 29
+[13-Nov-2015 17:33:07 America/Chicago] PHP Fatal error:  Call to undefined method Betfair::get_market_catalog_by() in /home/latingan/public_html/application/controllers/Events.php on line 47
+[13-Nov-2015 17:38:06 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/latingan/public_html/application/controllers/Events.php on line 29
