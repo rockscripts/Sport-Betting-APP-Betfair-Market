@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>DevOOPS</title>
+		<title>LATINGANA</title>
 		<meta name="description" content="description">
 		<meta name="author" content="DevOOPS">
 		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>

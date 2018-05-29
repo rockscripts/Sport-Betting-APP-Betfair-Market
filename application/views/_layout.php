@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 
-		<title>Mercado Directo</title>
+		<title>LATINGANA</title>
 		<link href='https://fonts.googleapis.com/css?family=Play' rel='stylesheet' type='text/css'>
 		<meta name="description" content="description">
 		<meta name="author" content="DevOOPS">
