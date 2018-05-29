@@ -14,13 +14,13 @@ Read <a href="https://github.com/rockscripts/Sport-Betting-APP-Betfair-Market/bl
 <td>
     <div>
         <h4>Events</h4>
-        <img src="readme_images/1.png" width="200"/>
+        <img src="readme_images/1.png" width="350"/>
     </div>
 </td>
 <td>
     <div>
         <h4>Betting Layer</h4>
-        <img src="readme_images/2.png" width="200"/>
+        <img src="readme_images/2.png" width="350"/>
     </div>
 </td>
 </tr>
@@ -28,13 +28,13 @@ Read <a href="https://github.com/rockscripts/Sport-Betting-APP-Betfair-Market/bl
 <td>
     <div>
         <h4>Betting History</h4>
-        <img src="readme_images/3.png" width="200"/>
+        <img src="readme_images/3.png" width="350"/>
     </div>
 </td>
 <td>
     <div>
         <h4>Financial</h4>
-        <img src="readme_images/4.png" width="200"/>
+        <img src="readme_images/4.png" width="350"/>
     </div>
 </td>
 </tr>
