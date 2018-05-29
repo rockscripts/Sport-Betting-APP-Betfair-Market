@@ -6,7 +6,7 @@ Web based app for sports betting using Betfair API<br>
 Read <a href="https://github.com/rockscripts/Sport-Betting-APP-Betfair-Market/blob/master/Aplicacion%20para%20apuestas%20deportivas%20con%20cuotas%20de%20mercado.pdf">Theoric project</a> if you want know application details.
 </p>
 <p>
-Kindly, check if you are able to get sport markets loading <a href="https://www.betfair.com/">this website on Betfair</a>
+Kindly, check if your country is available for getting sports markets visiting <a href="https://www.betfair.com/">this website on Betfair</a>
 <br>
 <b style="color:red">If you are not able to load web page. It means you require an European or North America Account created on Betfair with VPN and install this application in EU or NA datacenter with Amazon AWS or Google Firebase service.</b> 
 </p>
@@ -31,3 +31,5 @@ Kindly, check if you are able to get sport markets loading <a href="https://www.
 <li>The <strong>Application Key</strong> returned provides access to betting operations and delayed odds data - to be used for development and testing. Please apply for a live Application Key using the application form below once you have completed your development.<a href="/get-started/exchange/exchange-step-2/"></a></li>
 </ol>
 </div>
+
+/application/helpers/general_helper.php
