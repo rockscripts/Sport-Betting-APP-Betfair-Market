@@ -1,4 +1,5 @@
 <h1>Sport Betting APP Betfair Market</h1>
+<p>I authorize any developer, person or company for using this application. But you must accomplish your country law and Betfair requirements to publish it.</p>
 <p>
 Web based app for sports betting using Betfair API<br>
 <b>Framework: </b>Codeigniter with PHP
@@ -6,13 +7,25 @@ Web based app for sports betting using Betfair API<br>
 Read <a href="https://github.com/rockscripts/Sport-Betting-APP-Betfair-Market/blob/master/Aplicacion%20para%20apuestas%20deportivas%20con%20cuotas%20de%20mercado.pdf">Theoric project</a> if you want know application details.
 </p>
 <h3>SCREENSHOTS</h3>
+<p>Full screenshots are in <a href="https://github.com/rockscripts/Sport-Betting-APP-Betfair-Market/blob/master/Aplicacion%20para%20apuestas%20deportivas%20con%20cuotas%20de%20mercado.pdf">Theoric project</a></p>. Got to page number 71
 <p>
 <div style="float:left; max-height:200px;max-width:200px;overflow:hidden;">
+<h4>Events</h4>
 <img src="readme_images/1.png"/>
 </div>
+<div style="float:left; max-height:200px;max-width:200px;overflow:hidden;">
+<h4>Betting Layer</h4>
+<img src="readme_images/2.png"/>
+</div>
+<div style="float:left; max-height:200px;max-width:200px;overflow:hidden;">
+<h4>Betting History</h4>
+<img src="readme_images/3.png"/>
+</div>
+<div style="float:left; max-height:200px;max-width:200px;overflow:hidden;">
+<h4>Financial</h4>
+<img src="readme_images/4.png"/>
+</div>
 </p>
-
-
 
 <p>
 Kindly, check if your country is available for getting sports markets visiting <a href="https://www.betfair.com/">this website on Betfair</a>
