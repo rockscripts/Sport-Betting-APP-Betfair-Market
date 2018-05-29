@@ -101,5 +101,5 @@ Kindly, check if your country is available for getting sports markets visiting <
 </p>
 <h1>UPDATING COMPETITORS, EVENTS, MARKET CATALOG, USERS BETTING RESULTS, PROFIT, LOSSES AND ILEGAL ACTIVITIES</h1>
 <p>
-
+Create cronjobs and use <b>/application/controllers/Jobs.php</b> functions.
 </p>
