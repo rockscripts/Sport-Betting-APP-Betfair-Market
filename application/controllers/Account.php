@@ -10,10 +10,10 @@ class Account extends CI_Controller
 	   $this->load->model('Betfair');
 	   $this->load->model('Account_model');
 	  // $this->load->model('Ion_auth_model');
-	   $this->load->library(array('ion_auth'));
+	   $this->load->library('Ion_auth');
            
 	}
-	public function index()
+	public function index() 
 	{
 	    $data = array();
             if($this->session->userdata("user_id"))
