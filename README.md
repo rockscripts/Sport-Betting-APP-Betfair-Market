@@ -3,11 +3,13 @@
 <p>
 Web based app for sports betting using <a href="https://github.com/danieledangeli/betfair-php">danieledangeli Betfair API wrapper repository</a><br>
 <b>Framework: </b>Codeigniter with PHP
-<br><br>
+<br>
+It is in spanish but it is easy to translate. Just create milestone and we will get in touch with you. If you want new features feel free to develop it or create a request here in github.
+<br>
 Read <a href="https://github.com/rockscripts/Sport-Betting-APP-Betfair-Market/blob/master/Aplicacion%20para%20apuestas%20deportivas%20con%20cuotas%20de%20mercado.pdf">Theoric project</a> if you want know application details.
 </p>
 <h3>SCREENSHOTS</h3>
-<p>Full screenshots are in <a href="https://github.com/rockscripts/Sport-Betting-APP-Betfair-Market/blob/master/Aplicacion%20para%20apuestas%20deportivas%20con%20cuotas%20de%20mercado.pdf">Theoric project</a> . Got to page number 71</p>
+<p>Full screenshots are in <a href="https://github.com/rockscripts/Sport-Betting-APP-Betfair-Market/blob/master/Aplicacion%20para%20apuestas%20deportivas%20con%20cuotas%20de%20mercado.pdf">Theoric project</a> . Go to page number 71</p>
 <p>
 <table>
 <tr>
