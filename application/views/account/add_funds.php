@@ -69,9 +69,15 @@
 	   </div>
        </div>
 <script>
-   $(document).on("click",".depositar",function()
-	{	
-	  var content = $(".deposito-daviplata").html();
-	  new Messi(content, {title:"Daviplata - Depositar" , modal: true});
-	});
+  // Cache jQuery selectors
+  var $depositoDaviplata = $(".deposito-daviplata");
+
+  // Use event delegation
+  $(document).on("click", ".depositar", function() {
+    var content = $depositoDaviplata.html();
+    // Use a faster modal library
+    // For example, you could consider using Bootstrap's built-in modal
+    // or a lightweight library like Micromodal
+    new Messi(content, {title:"Daviplata - Depositar", modal: true});
+  });
 </script>
